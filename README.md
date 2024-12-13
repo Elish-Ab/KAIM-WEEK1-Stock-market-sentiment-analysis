@@ -103,5 +103,3 @@ For questions or feedback, contact:
     Email: elishabu28@gmail.com
     GitHub: github/Elish-Ab
 
-
-Replace `Elish-AB`, `KAIM-WEEK1-Stock-market-sentiment-analysis`, and other placeholders with the appropriate information for your project.
