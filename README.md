@@ -6,7 +6,7 @@ This project focuses on analyzing financial news data to extract insights for tr
 
 ---
 
-## Folder Structure
+## Folder Structur
 ├── .vscode/ │ └── settings.json # VSCode settings for the project
 ├── .github/ │ └── workflows │ └── unittests.yml # CI/CD workflow for running unit tests
 ├── .gitignore # Files and directories to ignore in Git 
@@ -17,6 +17,7 @@ This project focuses on analyzing financial news data to extract insights for tr
 ├── tests/ │ ├── init.py # Unit tests for the project 
 └── scripts/ ├── init.py # Scripts for executing the project tasks
 └── README.md # Scripts documentation
+
 
 ---
 
@@ -112,4 +113,3 @@ For questions or feedback, contact:
     Name: Elisha Abriham
     Email: elishabu28@gmail.com
     GitHub: github/Elish-Ab
-
