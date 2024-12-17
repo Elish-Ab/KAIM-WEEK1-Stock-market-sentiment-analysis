@@ -6,8 +6,18 @@ This project focuses on analyzing financial news data to extract insights for tr
 
 ---
 
-## Folder Structure
-├── .vscode/ │ └── settings.json # VSCode settings for the project ├── .github/ │ └── workflows │ └── unittests.yml # CI/CD workflow for running unit tests ├── .gitignore # Files and directories to ignore in Git ├── requirements.txt # Python dependencies ├── README.md # Project documentation ├── src/ │ ├── init.py # Source code files ├── notebooks/ │ ├── init.py # Jupyter notebook initialization  ├── Task1_EDA part.ipynb│ └── README.md # Notebooks documentation ├── tests/ │ ├── init.py # Unit tests for the project └── scripts/ ├── init.py ├──main.py ├── preprocss.py ├── sentiment_analysis.py ├── topic_modeling.py ├── trend_analysis.py  # Scripts for executing the project tasks └── README.md # Scripts documentation
+## Folder Structur
+├── .vscode/ │ └── settings.json # VSCode settings for the project
+├── .github/ │ └── workflows │ └── unittests.yml # CI/CD workflow for running unit tests
+├── .gitignore # Files and directories to ignore in Git 
+├── requirements.txt # Python dependencies 
+├── README.md # Project documentation 
+├── src/ │ ├── init.py # Source code files 
+├── notebooks/ │ ├── init.py # Jupyter notebook initialization │ └── README.md # Notebooks documentation 
+├── tests/ │ ├── init.py # Unit tests for the project 
+└── scripts/ ├── init.py # Scripts for executing the project tasks
+└── README.md # Scripts documentation
+
 
 ---
 
@@ -88,6 +98,7 @@ Commit your changes:
     ```
 Push to the branch:
     ```bash
+    
         git push origin feature-branch-name
 
         Create a pull request.
