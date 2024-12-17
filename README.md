@@ -9,18 +9,6 @@ This project focuses on analyzing financial news data to extract insights for tr
 ## Folder Structure
 <<<<<<< HEAD
 ├── .vscode/ │ └── settings.json # VSCode settings for the project ├── .github/ │ └── workflows │ └── unittests.yml # CI/CD workflow for running unit tests ├── .gitignore # Files and directories to ignore in Git ├── requirements.txt # Python dependencies ├── README.md # Project documentation ├── src/ │ ├── init.py # Source code files ├── notebooks/ │ ├── init.py # Jupyter notebook initialization  ├── Task1_EDA part.ipynb│ └── README.md # Notebooks documentation ├── tests/ │ ├── init.py # Unit tests for the project └── scripts/ ├── init.py ├──main.py ├── preprocss.py ├── sentiment_analysis.py ├── topic_modeling.py ├── trend_analysis.py  # Scripts for executing the project tasks └── README.md # Scripts documentation
-=======
-├── .vscode/ │ └── settings.json # VSCode settings for the project
-├── .github/ │ └── workflows │ └── unittests.yml # CI/CD workflow for running unit tests
-├── .gitignore # Files and directories to ignore in Git 
-├── requirements.txt # Python dependencies 
-├── README.md # Project documentation 
-├── src/ │ ├── init.py # Source code files 
-├── notebooks/ │ ├── init.py # Jupyter notebook initialization │ └── README.md # Notebooks documentation 
-├── tests/ │ ├── init.py # Unit tests for the project 
-└── scripts/ ├── init.py # Scripts for executing the project tasks
-└── README.md # Scripts documentation
->>>>>>> 66389c104c249a71bd3ecb62d17d61fd0852a779
 
 ---
 
@@ -117,6 +105,3 @@ For questions or feedback, contact:
     Email: elishabu28@gmail.com
     GitHub: github/Elish-Ab
 <<<<<<< HEAD
-=======
-
->>>>>>> 66389c104c249a71bd3ecb62d17d61fd0852a779
