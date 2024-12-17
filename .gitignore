@@ -1,8 +1,10 @@
 /raw_analyst_ratings.csv
 /yfinance_data/*.csv
 ta-lib-0.4.0-src.tar.gz
-ta-lib
-pyfolio
-/=4.2.0
+ta-lib/
+pyfolio/
+=4.2.0
+
 nltk
+
 venv/
